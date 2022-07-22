@@ -1,5 +1,10 @@
 ---
 content_type: page
+description: This section provides information on the group written case assignments
+  of the course and problem sets on inventory, supply contracts, and supply chains.
+learning_resource_types:
+- Assignments
+ocw_type: CourseSection
 title: Assignments
 uid: 15bb7717-cd7a-3593-9ea0-452e582fff01
 ---
@@ -69,19 +74,19 @@ PROBLEM SETS
 {{< theadclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-Inventory problem set ([PDF]({{< baseurl >}}/resources/mit15_762js11_assn01))
+Inventory problem set ({{% resource_link f4121fda-bbc5-18fd-499b-01b3d104250b "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-Supply contracts problem set ([PDF]({{< baseurl >}}/resources/mit15_762js11_assn02))
+Supply contracts problem set ({{% resource_link ee1c01ce-204a-5c00-a2c1-37a840d9ca85 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-Supply chain problem set ([PDF]({{< baseurl >}}/resources/mit15_762js11_assn03))
+Supply chain problem set ({{% resource_link 86dc9da2-c6f0-6042-73ca-fe8fbfcaf479 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
